@@ -1,0 +1,76 @@
+/* FeedGuard for WooCommerce — admin report styles (v0.1). */
+.feedguard-woo .feedguard-woo-disclaimer {
+	margin: 12px 0;
+	max-width: 900px;
+}
+
+.feedguard-woo-run-form {
+	background: #fff;
+	border: 1px solid #dcdcde;
+	padding: 12px 16px;
+	margin: 12px 0;
+	max-width: 900px;
+}
+
+.feedguard-woo-summary {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px 24px;
+	font-size: 14px;
+	margin: 12px 0;
+}
+
+.feedguard-woo-error-text {
+	color: #b32d2e;
+	font-weight: 600;
+}
+
+.feedguard-woo-warning-text {
+	color: #996800;
+	font-weight: 600;
+}
+
+.feedguard-woo-table {
+	max-width: 1200px;
+	margin-bottom: 24px;
+}
+
+.feedguard-woo-badge {
+	display: inline-block;
+	padding: 1px 8px;
+	border-radius: 8px;
+	font-size: 12px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.feedguard-woo-badge-error {
+	background: #fcf0f1;
+	color: #b32d2e;
+}
+
+.feedguard-woo-badge-warning {
+	background: #fcf9e8;
+	color: #996800;
+}
+
+.feedguard-woo-id {
+	color: #787c82;
+}
+
+.feedguard-woo-why {
+	color: #50575e;
+	max-width: 900px;
+	margin-top: -6px;
+}
+
+.feedguard-woo-count {
+	color: #787c82;
+	font-weight: 400;
+}
+
+.feedguard-woo-clean {
+	font-size: 14px;
+	font-weight: 600;
+	color: #008a20;
+}
