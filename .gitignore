@@ -1,0 +1,18 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Logs and temp
+*.log
+*.tmp
+
+# Build artefacts (the release zip is built locally; publish via GitHub releases)
+# (feedguard-woo.zip is intentionally NOT ignored in this working copy —
+#  it is the v0.1 testing deliverable.)
+
+# Dependencies, if any are added later
+/vendor/
+node_modules/
